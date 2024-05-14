@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/ch4studio.csproj": {}
+  },
+  "projects": {
+    "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/ch4studio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/ch4studio.csproj",
+        "projectName": "ch4studio",
+        "projectPath": "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/ch4studio.csproj",
+        "packagesPath": "/Users/matthewcreek/.nuget/packages/",
+        "outputPath": "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/matthewcreek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

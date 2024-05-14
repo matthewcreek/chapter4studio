@@ -1,0 +1,14 @@
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.AssemblyInfoInputs.cache
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.AssemblyInfo.cs
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.csproj.CoreCompileInputs.cache
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/bin/Debug/net8.0/ch4studio
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/bin/Debug/net8.0/ch4studio.deps.json
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/bin/Debug/net8.0/ch4studio.runtimeconfig.json
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/bin/Debug/net8.0/ch4studio.dll
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/bin/Debug/net8.0/ch4studio.pdb
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.dll
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/refint/ch4studio.dll
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.pdb
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.genruntimeconfig.cache
+/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ref/ch4studio.dll
