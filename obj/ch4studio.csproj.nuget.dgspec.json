@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/ch4studio.csproj": {}
+    "D:\\Coding\\Launchcode IA\\csharp\\chapters\\studios\\classes\\chapter4studio\\ch4studio.csproj": {}
   },
   "projects": {
-    "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/ch4studio.csproj": {
+    "D:\\Coding\\Launchcode IA\\csharp\\chapters\\studios\\classes\\chapter4studio\\ch4studio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/ch4studio.csproj",
+        "projectUniqueName": "D:\\Coding\\Launchcode IA\\csharp\\chapters\\studios\\classes\\chapter4studio\\ch4studio.csproj",
         "projectName": "ch4studio",
-        "projectPath": "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/ch4studio.csproj",
-        "packagesPath": "/Users/matthewcreek/.nuget/packages/",
-        "outputPath": "/Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/",
+        "projectPath": "D:\\Coding\\Launchcode IA\\csharp\\chapters\\studios\\classes\\chapter4studio\\ch4studio.csproj",
+        "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\Launchcode IA\\csharp\\chapters\\studios\\classes\\chapter4studio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/matthewcreek/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

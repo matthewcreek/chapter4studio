@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ch4studio
-build_property.ProjectDir = /Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/
+build_property.ProjectDir = D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

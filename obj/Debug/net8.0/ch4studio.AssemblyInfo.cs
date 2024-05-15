@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ch4studio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181bb8d77454e8c8a591b6a88f6082cff97acbb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ch4studio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ch4studio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

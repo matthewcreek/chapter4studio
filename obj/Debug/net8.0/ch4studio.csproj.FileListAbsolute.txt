@@ -12,3 +12,18 @@
 /Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.pdb
 /Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ch4studio.genruntimeconfig.cache
 /Users/matthewcreek/Desktop/LaunchCode/csharp/studios/chapter4/studio/ch4studio/obj/Debug/net8.0/ref/ch4studio.dll
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\bin\Debug\net8.0\ch4studio.exe
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\bin\Debug\net8.0\ch4studio.deps.json
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\bin\Debug\net8.0\ch4studio.runtimeconfig.json
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\bin\Debug\net8.0\ch4studio.dll
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\bin\Debug\net8.0\ch4studio.pdb
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ch4studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ch4studio.AssemblyInfoInputs.cache
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ch4studio.AssemblyInfo.cs
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ch4studio.csproj.CoreCompileInputs.cache
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ch4studio.sourcelink.json
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ch4studio.dll
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\refint\ch4studio.dll
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ch4studio.pdb
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ch4studio.genruntimeconfig.cache
+D:\Coding\Launchcode IA\csharp\chapters\studios\classes\chapter4studio\obj\Debug\net8.0\ref\ch4studio.dll
